@@ -1,0 +1,23 @@
+{
+  "repo": "gstarcad-complete",
+  "product": "GstarCAD Complete",
+  "kind": "cad",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "engineering-cad",
+  "topics": [
+    "gstarcad",
+    "gstarcad-windows",
+    "engineering-cad-desktop",
+    "how-to-install-gstarcad",
+    "gstarcad-desktop-package",
+    "gstarcad-workspace",
+    "gstarcad-pro-tools",
+    "gstarcad-suite",
+    "zentool-gstarcad",
+    "gstarcad-tool-9"
+  ],
+  "site": "zentool.art"
+}
